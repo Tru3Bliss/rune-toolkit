@@ -1,6 +1,6 @@
 # Runestone toolkit Typescript
 ---
-Runestone Etch, Mint, Transfer, Recursive Rune, Airdrop, Encipher, Decipher
+Runestone Etch, Mint, Transfer, Recursive Rune, Airdrop, Encipher, Decipher.
 
 
 ## Prerequisites
